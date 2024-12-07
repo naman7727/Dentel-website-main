@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import SearchIcon from '@mui/icons-material/Search';
 import HeroSlider from './components/home/HeroSlider';
-import NavBar from './components/navbar/NavBar';
+import Navbar from './components/navbar/Navbar';
 import Footer from './components/footer/Footer';
 import Card from './components/home/Card';
 import { treatments } from './Treatments';
