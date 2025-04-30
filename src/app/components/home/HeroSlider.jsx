@@ -8,8 +8,8 @@ import { Zoom, Slide } from "react-slideshow-image";
 import "react-slideshow-image/dist/styles.css";
 
 const images = [
-  "./images/slider1-2.JPG",
-  "./images/slider2-2.JPG",
+  "./images/slider1-2.png",
+  "./images/slider2-2.png",
   "./images/slider3-2.JPG",
 ];
 
